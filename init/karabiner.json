@@ -1,0 +1,16 @@
+{
+    "profiles": [
+        {
+            "devices": [],
+            "fn_function_keys": {},
+            "name": "Default profile",
+            "selected": true,
+            "simple_modifications": {
+                "caps_lock": "f18"
+            },
+            "virtual_hid_keyboard": {
+                "keyboard_type": "ansi"
+            }
+        }
+    ]
+}
